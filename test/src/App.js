@@ -11,7 +11,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <p>이것은 test_a branch의 수정 내역입니다.</p>
-		<p>이것은 test_a branch의 수정 내역입니다.</p>
+		    <p>이것은 test_a branch의 수정 내역입니다.</p>
         <a
           className="App-link"
           href="https://reactjs.org"
